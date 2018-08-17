@@ -3,4 +3,4 @@
 --------------------------
 - ### go
   - [go 实现二分] [go-binary-search]
-    [go-binary-search]: https://github.com/EchoZw/notes/issues/1
+[go-binary-search]: https://github.com/EchoZw/notes/issues/1
