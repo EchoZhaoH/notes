@@ -3,3 +3,4 @@
 --------------------------
 - ### go
   - [go 实现二分](https://github.com/EchoZw/notes/issues/1)
+  - [go 实现一个简易的 http server](https://github.com/EchoZw/notes/issues/2)
