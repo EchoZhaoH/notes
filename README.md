@@ -8,3 +8,5 @@
 #### 笔记
 
 mobx 在 `react-router` 没有包裹的组件使用 observer 装饰器会导致组件下的路由无法跳转
+
+#1
